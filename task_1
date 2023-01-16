@@ -1,0 +1,5 @@
+print ('Введите дату:')
+input date
+print ('Введите Задачу:')
+inpyt task
+print (date, task)
